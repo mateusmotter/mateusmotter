@@ -17,7 +17,10 @@
  
  ## Languages and Tools:
 
-![This is an image](https://www.w3.org/html/logo/badge/html5-badge-h-solo.png")  css3  javascript git 
-GitHub Stats:
+<list>
+    <li>Web development:<br>
+      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+ </li>
+</list>
 
 
