@@ -1,11 +1,11 @@
  # Hi 👋, I'm Mateus!
 
  
- -🔭 I'm currently studying the Full-Stack Engineering Path on Codecademy;
+ 🔭 I'm currently studying the Full-Stack Engineering Path on Codecademy;
  
- -🌱 So far, I've completed 28% of the course. I am determined to finish it by September 2022;
+ 🌱 So far, I've completed 28% of the course. I am determined to finish it by September 2022;
  
- -📫 Reach me on mateus.motter@outlook.com
+ 📫 Reach me on mateus.motter@outlook.com
  
  ## Check my previous projects:
  
