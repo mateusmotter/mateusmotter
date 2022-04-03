@@ -13,7 +13,7 @@
  
  - Personal Portifolio Website;
  
- ### Connect with my via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
+ ### Connect with me via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
  
  ## Languages and Tools:
 
