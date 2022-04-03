@@ -13,11 +13,11 @@
  
  - Personal Portifolio Website;
  
- ## Connect with my via linkedin.com/in/mateus-motter
+ ### Connect with my via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
  
  ## Languages and Tools:
 
- html5  css3  javascript git 
+![This is an image](https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="63" height="64" alt="HTML5 Powered" title="HTML5 Powered)  css3  javascript git 
 GitHub Stats:
 
 
