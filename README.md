@@ -17,7 +17,7 @@
  
  ## Languages and Tools:
 
-![This is an image](https://www.w3.org/html/logo/badge/html5-badge-h-solo.png" width="63" height="64" alt="HTML5 Powered" title="HTML5 Powered)  css3  javascript git 
+![This is an image](https://www.w3.org/html/logo/badge/html5-badge-h-solo.png")  css3  javascript git 
 GitHub Stats:
 
 
