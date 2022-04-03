@@ -23,8 +23,11 @@
       <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"              alt="css3" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://git-scm.com" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png"alt="css3" width="40" height="40"/> </a>
-    
+      <a href="https://git-scm.com" target="_blank"> <img src="https://git-scm.com/images/logo@2x.png"alt="css3" width="40" height="85"/> </a>
+      <a href="https://github.com" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"alt="css3" width="40" height="40"/> </a>
+      <a href="https://github.com" target="_blank"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"alt="css3" width="40" height="40"/> </a>
+      <a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg"alt="css3" width="40" height="40"/> </a>
+      <a href="https://www.python.org" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"alt="css3" width="40" height="40"/> </a>
     </li>
  </list>
 
