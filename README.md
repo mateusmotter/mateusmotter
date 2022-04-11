@@ -9,7 +9,7 @@
  
  ## Check my previous projects:
  
- - <a href="https://mateusmotter.github.io" target="_blank">4WD Exp Website</a>
+ - <a href="https://mateusmotter.github.io" target="_blank" target="_blank">4WD Exp Website</a>
  
  - Personal Portifolio Website;
  
