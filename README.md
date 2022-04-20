@@ -9,9 +9,9 @@
  
  ## Check my previous projects:
  
- - <a href="https://mateusmotter.github.io" target="_blank" target="_blank">4WD Exp Website</a>
+ - <a href="https://mateusmotter.github.io" target="_blank">4WD Exp Website</a>
  
- - Personal Portifolio Website;
+ - <a href ="https://mateusmotter.github.io/Portifolio-Website/#" target="_blank">Portifolio Website</a>
  
  ### Connect with me via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
  
@@ -29,5 +29,8 @@
       <a href="https://www.python.org" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"alt="css3" width="40" height="40"/> </a>
     </li>
  </list>
+
+ 
+ 
 
 
