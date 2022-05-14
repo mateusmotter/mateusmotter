@@ -10,8 +10,8 @@
  ## Check my previous projects:
  
  - <a href="https://mateusmotter.github.io" target="_blank">4WD Exp Website</a>
- 
  - <a href ="https://mateusmotter.github.io/Portifolio-Website/#" target="_blank">Portifolio Website</a>
+ - <a href ="https://mateusmotter.github.io/Chore-Door/" target="_blank">Chore Door</a>
  
  ### Connect with me via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
  
