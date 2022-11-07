@@ -1,9 +1,8 @@
  # Hi 👋, I'm Mateus!
 
  
- 🔭 I'm currently studying the Full-Stack Engineering Path on Codecademy;
+ 🔭 I'm currently studying the Full-Stack Development at TAFE QLD;
  
- 🌱 So far, I've completed 39% of the course. I am determined to finish it by September 2022;
  
  📫 Reach me on mateus.motter@outlook.com
  
