@@ -8,6 +8,10 @@
  
  ## Check my previous projects:
  
+ - ### The Mobile Hour
+    - <a href="https://github.com/mateusmotter/themobilehour" target="_blank">Source Code</a>
+    - Languages and Frameworks Used: HTML, CSS, JavaScript, NodeJS, EJS and MySQL.
+ 
  - ### 4WD Exp Website 
     - <a href="https://mateusmotter.github.io" target="_blank">Live Website</a> || <a href="https://github.com/mateusmotter/mateusmotter.github.io" target="_blank">Source Code</a>
     - Languages and Frameworks Used: HTML and CSS
@@ -22,7 +26,7 @@
 
 - ### Jammming 
     - <a href="https://github.com/mateusmotter/Jamming-Spotify-API-" target="_blank">Source Code</a>
-    - Languages and Frameworks Used: HTML, CSS and JavaScript and React
+    - Languages and Frameworks Used: HTML, CSS, JavaScript and React
    
  
  ### Connect with me via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
