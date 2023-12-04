@@ -1,10 +1,8 @@
  # Hi 👋, I'm Mateus!
 
  
- 🔭 I'm currently studying the Full-Stack Development at TAFE QLD;
+ 🔭 Full-Stack Developer looking to break into the Tech Industry.
  
- 
- 📫 Reach me on mateus.motter@outlook.com
  
  ## Check my previous projects:
  
