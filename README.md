@@ -27,7 +27,6 @@
     - Languages and Frameworks Used: HTML, CSS, JavaScript and React
    
  
- ### Connect with me via [Linkedin](https://www.linkedin.com/in/mateus-motter-438b71222/)
  
  ## Languages and Tools:
 
