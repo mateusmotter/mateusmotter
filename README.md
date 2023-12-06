@@ -5,6 +5,10 @@
  
  
  ## Check my previous projects:
+
+ - ### Wheather Readings API
+    - <a href="https://github.com/mateusmotter/tafe_weather_api" target="_blank">Source Code</a>
+    - Languages and Frameworks Used: JavaScript, NodeJS and MongoDB.
  
  - ### The Mobile Hour
     - <a href="https://github.com/mateusmotter/themobilehour" target="_blank">Source Code</a>
