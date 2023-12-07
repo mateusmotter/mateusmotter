@@ -6,7 +6,7 @@
  
  ## Check my previous projects:
 
- - ### Wheather Readings API
+ - ### Weather Readings API
     - <a href="https://github.com/mateusmotter/tafe_weather_api" target="_blank">Source Code</a>
     - Languages and Frameworks Used: JavaScript, NodeJS and MongoDB.
  
