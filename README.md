@@ -6,6 +6,9 @@
  
  ## Check my previous projects:
 
+ - ### Eat-and-split
+    - <a href="https://github.com/mateusmotter/eat-and-split" target="_blank">Source Code</a>
+
  - ### Weather Readings API
     - <a href="https://github.com/mateusmotter/tafe_weather_api" target="_blank">Source Code</a>
     - Languages and Frameworks Used: JavaScript, NodeJS and MongoDB.
