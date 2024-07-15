@@ -7,7 +7,7 @@
  ## Check my previous projects:
 
  - ### Dice Roller 
-    - <a href="https://github.com/mateusmotter/DiceRoller" target="_blank">Live Website</a> || <a href="https://main--sprightly-treacle-c6b8e6.netlify.app" target="_blank">Source Code</a>
+    - <a href="https://main--sprightly-treacle-c6b8e6.netlify.app" target="_blank">Live Website</a> || <a href="https://github.com/mateusmotter/DiceRoller" target="_blank">Source Code</a>
     - Languages and Frameworks Used: React, HTML and CSS
 
  - ### Eat-and-split
