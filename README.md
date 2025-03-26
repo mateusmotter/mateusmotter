@@ -26,9 +26,6 @@
     - <a href="https://mateusmotter.github.io" target="_blank">Live Website</a> || <a href="https://github.com/mateusmotter/mateusmotter.github.io" target="_blank">Source Code</a>
     - Languages and Frameworks Used: HTML and CSS
 
-- ### Portifolio Website 
-    - <a href="https://mateusmotter.github.io/Portifolio-Website/#" target="_blank">Live Website</a> || <a href="https://github.com/mateusmotter/Portifolio-Website" target="_blank">Source Code</a>
-    - Languages and Frameworks Used: HTML, CSS and JavaScript
 
 - ### Chore Door 
     - <a href="https://mateusmotter.github.io/Chore-Door/" target="_blank">Live Website</a> || <a href="https://github.com/mateusmotter/Chore-Door" target="_blank">Source Code</a>
